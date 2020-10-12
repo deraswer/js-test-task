@@ -1,0 +1,29 @@
+{
+    "data":[
+        {
+            "name": "photos",
+            "type": "folder",
+            "time": "10/12/2010, 11:42:36 AM"
+        },
+        {
+            "name": "videos",
+            "type": "folder",
+            "time": "10/12/2010, 3:24:19 PM"
+        },
+        {
+            "name": "passport_scan.jpg",
+            "type": "file",
+            "time": "05/17/2015, 7:32:46 PM"
+        },
+        {
+            "name": "credentials.txt",
+            "type": "file",
+            "time": "03/24/2019, 11:48:01 AM"
+        },
+        {
+            "name": "dota2.exe",
+            "type": "file",
+            "time": "10/12/2020, 9:32:07 AM"
+        }
+    ]
+} 
