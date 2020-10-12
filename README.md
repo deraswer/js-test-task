@@ -1,6 +1,6 @@
-## Available Scripts
+Available Scripts
 
-## In the project directory, you can run:
+In the project directory, you can run:
 
 ## Install dependencies
 ### `npm install`
@@ -11,7 +11,6 @@
 ## Start project
 ### `npm start`
 
-## After start
-## Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+After start open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![alt text](screenshot.png "скриншот")​
